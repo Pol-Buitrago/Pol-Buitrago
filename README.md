@@ -1,6 +1,7 @@
 
 <a href="https://github.com/pol-buitrago">
 	<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=200&multiline=true&width=500&height=100&lines=Pol+Buitrago+Esteve;Telecommunication+Technologies+and+Services+Engineer+from+Spain;" alt="Typing SVG" />
+</a>	
 - 💬 Ask me about **programming (MATLAB, Java, C, C#, Python...), image and video processing...**
 
 - 📫 How to reach me **polbtr@gmail.com**
